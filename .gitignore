@@ -1,6 +1,9 @@
 # Don't include anything by default
 *
 
+# Allow traversing directories
+!*/
+
 # Include these things
 !requirements.*
 !*.sample.yml
