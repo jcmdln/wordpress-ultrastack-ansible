@@ -1,9 +1,4 @@
 ---
-collections:
-  - ansible.posix
-  - community.crypto
-  - community.general
-
 roles:
   - name: inmotionhosting.apache
     version: "1.2.0"
